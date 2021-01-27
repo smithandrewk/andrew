@@ -121,3 +121,4 @@ source ~/.dotfiles/.my_custom_commands.sh
 if [ -f ~/.dotfiles/.bash_aliases ]; then
     . ~/.dotfiles/.bash_aliases
 fi
+cowsay good morning
