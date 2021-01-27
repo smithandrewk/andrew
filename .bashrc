@@ -98,7 +98,6 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
-source /opt/ros/melodic/setup.bash
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
