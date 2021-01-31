@@ -4,4 +4,8 @@
 !/.bashrc
 !/.README.md
 !/.gitignore
-!/bin
+!/.local
+/.local/lib
+/.local/bin
+/.local/share
+/.local/etc
