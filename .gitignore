@@ -1,10 +1,7 @@
 /*
-/*/
-!/.dotfiles
-!/.bashrc
-!/.README.md
-!/.gitignore
-!/.local/
-/.local/lib
-/.local/etc
-/.local/share
+!/.local
+/.local/bin/*
+/.local/lib/*
+/.local/share/*
+/.local/etc/*
+!/.local/bin/today
