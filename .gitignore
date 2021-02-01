@@ -13,4 +13,9 @@
 !/.local/lib
 /.local/lib/*
 !/.local/lib/plexdl
+/.local/lib/plexdl/*
+!/.local/lib/plexdl/README.md
+
 !/.local/lib/ugene-36.0
+/.local/lib/ugene-36.0/*
+!/.local/lib/ugene-36.0/README
