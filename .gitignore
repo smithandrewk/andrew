@@ -10,6 +10,7 @@
 /.local/bin/*
 !/.local/bin/today
 !/.local/bin/ugene
+!/.local/bin/plexdl
 
 !/.local/lib
 /.local/lib/*
