@@ -4,3 +4,8 @@
 !/.bashrc
 !/.README.md
 !/.gitignore
+!/.local
+/.local/*
+!/.local/bin
+/.local/bin/*
+!/.local/bin/today
