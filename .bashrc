@@ -121,3 +121,4 @@ if [ -f ~/.dotfiles/.bash_aliases ]; then
     . ~/.dotfiles/.bash_aliases
 fi
 cowsay good morning
+export PATH="/home/andrew/.local/bin:$PATH"
