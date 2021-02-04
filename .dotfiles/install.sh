@@ -11,3 +11,8 @@ sudo apt purge firefox
 sudo apt update
 sudo apt upgrade
 sudo apt autoremove
+sudo rm -rf /var/cache/snapd/
+
+sudo apt autoremove --purge snapd gnome-software-plugin-snap
+
+rm -fr ~/snap
