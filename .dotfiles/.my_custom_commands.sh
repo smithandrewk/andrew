@@ -8,3 +8,6 @@ function update {
 function ssh_andrews {
 	ssh andrews@129.252.131.148
 }
+function pdl {
+	plexdl -u andrewsmith1025@gmail.com -p 2_K#s_cGAbvCbhm $1
+}
