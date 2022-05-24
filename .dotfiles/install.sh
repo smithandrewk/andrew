@@ -16,7 +16,4 @@ sudo rm -rf /var/cache/snapd/
 sudo apt autoremove --purge snapd gnome-software-plugin-snap
 
 rm -fr ~/snap
-#sudo apt install -y vlc-bin
-sudo apt install vlc
-sudo apt install chrome-gnome-shell
-dconf load /org/gnome/terminal/legacy/profiles:/ < ~/.dotfiles/gnome-terminal-profiles.dconf
+dconf load /org/gnome/terminal/legacy/profiles:/ < ~/.dotfiles/.gnome-terminal-profile.dconf
